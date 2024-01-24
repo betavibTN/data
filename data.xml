@@ -1,7 +1,7 @@
 <SoftwareVersions>
-<DBMgt>5.23.09.13</DBMgt>
-<DAQLITE>5.23.09.13</DAQLITE>
-<UHDM>5.24.01.19</UHDM>
+<DBMgt>5.24.01.22</DBMgt>
+<DAQLITE>5.24.01.22</DAQLITE>
+<UHDM>5.24.01.22</UHDM>
 <PROX>5.23.9.13</PROX>
 <VibWorksAnalyzer>20.3</VibWorksAnalyzer>
 <SAMAI>5.23.09.18</SAMAI>
@@ -9,5 +9,5 @@
 <VibWorksBalancer>5.23.09.13</VibWorksBalancer>
 <SIM4>1.0.0.0</SIM4>
 <Wavstorm>1.0.0.0</Wavstorm>
-<VibWorksReports>5.23.09.14</VibWorksReports>
+<VibWorksReports>5.23.09.13</VibWorksReports>
 </SoftwareVersions>
